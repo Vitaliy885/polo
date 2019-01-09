@@ -27,7 +27,7 @@ body{
 	padding: 5px 10px;
 }
 .head{
-	background-image: url(../img/Business-Continuity-Office-Background-White1.jpg);
+	background-image: url(../img/aas.jpg);
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -35,7 +35,6 @@ body{
 	text-align: center;
 }
 .head h1{
-	text-transform: uppercase;
 	letter-spacing: 2px;
 	color: #fff;
 	padding: 5px;
